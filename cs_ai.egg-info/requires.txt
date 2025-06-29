@@ -1,2 +1,0 @@
-requests>=2.25
-typing-extensions>=4.0
