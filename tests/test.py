@@ -1,4 +1,4 @@
-from csolai import CaptchaSolver
+from capsolai import CaptchaSolver
 
 cs = CaptchaSolver(
     "github-signup",
