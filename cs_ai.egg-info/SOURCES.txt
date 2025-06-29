@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+cs_ai/__init__.py
+cs_ai/solver.py
+cs_ai.egg-info/PKG-INFO
+cs_ai.egg-info/SOURCES.txt
+cs_ai.egg-info/dependency_links.txt
+cs_ai.egg-info/requires.txt
+cs_ai.egg-info/top_level.txt
