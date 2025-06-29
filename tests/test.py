@@ -1,4 +1,4 @@
-from cs_ai import CaptchaSolver
+from csolai import CaptchaSolver
 
 cs = CaptchaSolver(
     "github-signup",
